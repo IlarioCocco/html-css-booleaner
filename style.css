@@ -13,6 +13,7 @@
 .primaimg {
     background-image: url("pattern.png");
     background-color: #4EA0FF;
+    margin: 0;
     height: 200px;
 }
 
