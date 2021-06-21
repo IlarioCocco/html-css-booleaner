@@ -12,7 +12,7 @@
 
 .primaimg {
     background-image: url("pattern.png");
-    background-color: #4EA0FF;
+    background-color: #20A9E5;
     margin: 0;
     height: 200px;
 }
@@ -20,7 +20,7 @@
 
 
 .thebooleaner {
-    color: rgb(101, 146, 243);
+    color: #20A9E5;;
 }
 
 
@@ -49,3 +49,5 @@ span {
     background-color: #B1E5F2;
     color: black;
 }
+
+
