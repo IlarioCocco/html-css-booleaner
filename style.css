@@ -4,3 +4,40 @@
 }  */
 
 
+.primaimg {
+    background-image: url("img_html-css-booleaner/pattern.png");
+    height: 300px;
+}
+
+
+
+.thebooleaner {
+    color: rgb(101, 146, 243);
+}
+
+
+h3 {
+    color: grey;
+}
+
+
+h5 {
+    color: grey;
+}
+
+
+span {
+    background-color: yellow;
+}
+
+
+#primolorem {
+    background-color: #20A9E5;
+    color: white;
+}
+
+
+#secondolorem {
+    background-color: #B1E5F2;
+    color: black;
+}
