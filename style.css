@@ -9,9 +9,11 @@
     box-sizing: border-box;
 } */
 
+
 .primaimg {
     background-image: url("pattern.png");
-    height: 300px;
+    background-color: #4EA0FF;
+    height: 200px;
 }
 
 
