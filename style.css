@@ -4,8 +4,13 @@
 }  */
 
 
+/* *{
+    margin: 0%;
+    box-sizing: border-box;
+} */
+
 .primaimg {
-    background-image: url("img_html-css-booleaner/pattern.png");
+    background-image: url("pattern.png");
     height: 300px;
 }
 
