@@ -10,6 +10,7 @@
 } */
 
 
+/* <!-- testata imagine con titolo grande --> */
 .primaimg {
     background-image: url("pattern.png");
     background-color: #20A9E5;
@@ -17,28 +18,38 @@
     height: 180px;
 }
 
-
+.img {
+    width: 300px;
+    height: 70px;
+    margin-top: 80px;
+}
 
 .thebooleaner {
     color: #20A9E5;;
 }
 
-
 h3 {
     color: grey;
 }
-
 
 h5 {
     color: grey;
 }
 
 
+
+/* main section colore evidenziato */
 span {
     background-color: yellow;
 }
 
 
+.listanonordinata {
+    
+
+
+
+/* main section tabella */
 #primolorem {
     background-color: #20A9E5;
     color: white;
